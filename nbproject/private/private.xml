@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/admin/cpanel_staffonline.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/controllers/Customercontrol.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/models/Staffmodel.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/models/Customermodel.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/pages/login.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/libraries/Aauth.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/pages/home.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/admin/admin_settings.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/config/routes.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/admin/cpanel_clock_card.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/admin/cpanel_customers.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/admin/admin_profile.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/controllers/Customerpages.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/admin/cpanel_index.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/admin/history_single.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/controllers/Staffcontrol.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/style.css</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/admin/cpanel_staffatwork.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/admin/cpanel_allhistory.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/admin/cpanel_customersingle.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/pages/staff_profile.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/layouts/footer.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/admin/cpanel_forms.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/admin/cpanel_transaction.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/admin/cpanel_totalhistory.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/layouts/header.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/pages/services.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/pages/contactform.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/controllers/Staffpages.php</file>
+            <file>file:/C:/xampp/htdocs/ebanking/application/views/admin/cpanel_staffsingle.php</file>
+        </group>
+    </open-files>
+</project-private>
